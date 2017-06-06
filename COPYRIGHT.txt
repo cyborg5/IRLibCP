@@ -1,0 +1,37 @@
+﻿Copyright information for IRLibCP – a Circuit Python package for 
+infrared encoding and decoding
+
+IRLibCP is a collection of modules and sample programs which we 
+will collectively referred to as the PACKAGE. The PACKAGE consists
+of all files in the IRLibCP and its subfolders including Python
+source files, precompiled mpy files and documentation.
+
+The PACKAGE is Copyright (c) 2017 by Chris Young 
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+    
+These files will be maintained at https://github.com/cyborg5/IRLibCP
+Documentation and other support info at http://tech.cyborg5.com/irlib
+
+This package has been translated from the original IRLib2 which is 
+written in C++ and can be found at https://github.com/cyborg5/IRLib2
+Refer to its COPYRIGHT.txt for details on its origin.
+
+This package is covered by the GNU GENERAL PUBLIC LICENSE 3.0. 
+See LICENSE.txt for a copy of that license or visit 
+https://www.gnu.org/licenses/
+
+We wish to acknowledge extensive support and input by Scott Shawcroft 
+and Tony DiCola who developed Circuit Python from Micro Python as well 
+as of course Limora "LadyAda" Fried and Phil Torrone from Adafruit
+Industries.
+
+Other major contributors will be acknowledged in this file in the future.

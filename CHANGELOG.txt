@@ -1,0 +1,3 @@
+Version beta 0.1 June 6, 2017
+  Extremely rough early beta initial release.
+
