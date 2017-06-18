@@ -1,3 +1,5 @@
+Version  beta 0.2 June 18, 2017
+  Fixed problem with G.I.Cable decode
 Version beta 0.1 June 6, 2017
   Extremely rough early beta initial release.
 
