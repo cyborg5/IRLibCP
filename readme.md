@@ -10,4 +10,4 @@ This is an extremely early beta release. Much further documentation, example cod
 
 There is a preliminary users manual in .docx and PDF formats in the docs folder.
 
-**NOTE: This module depends on the Circuit Python "pulseio" module which is only available on the "Express" versions of Adafruit boards. Specifically Circuit Python Express, Feather M0 Express, and Metro M0 Express. Other implementations of Circuit Python such as regular Feather M0 Basic or BLE or ESP 8266 do not support pulseio and therefore these modules will not work on those platforms.**
+**NOTE: This module depends on the Circuit Python "pulseio" module which is only available on the "Express" versions of Adafruit boards. Specifically Circuit Playground Express, Feather M0 Express, and Metro M0 Express. Other implementations of Circuit Python such as regular Feather M0 Basic or BLE or ESP 8266 do not support pulseio and therefore these modules will not work on those platforms.**
