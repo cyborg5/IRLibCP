@@ -1,3 +1,6 @@
+Version beta 0.3 January 1, 2018 
+  Updated for Circuit Python 2.x
+  Tested with Circuit Pipeline 2.2.0
 Version  beta 0.2 June 18, 2017
   Fixed problem with G.I.Cable decode
 Version beta 0.1 June 6, 2017
